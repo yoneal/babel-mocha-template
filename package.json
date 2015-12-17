@@ -1,7 +1,7 @@
 {
-  "name": "mws-test",
+  "name": "babel-mocha-template",
   "version": "1.0.0",
-  "description": "Functional tests for MWS",
+  "description": "ES2015 Babel 6 + Mocha for your testing needs",
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register"
@@ -9,10 +9,10 @@
   "keywords": [
     "test",
     "mocha",
-    "mws"
+    "babel"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "yoneal",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-plugin-syntax-async-functions": "^6.3.13",
