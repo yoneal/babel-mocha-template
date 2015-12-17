@@ -2,9 +2,9 @@
 ES2015 Babel 6 + Mocha for your testing needs
 
 ## Installation
-Install node, preferrably via nvm.
+Install [node](https://nodejs.org), preferrably via [nvm](https://github.com/creationix/nvm).
 ```
-git clone <project>
+git clone https://github.com/yoneal/babel-mocha-template.git <project>
 cd <project>
 npm install
 ```
